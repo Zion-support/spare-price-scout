@@ -16,8 +16,8 @@ AI spare-parts price scout — part of the **Zion App Network**.
 - [zion-ai-vendor-benchmark-exchange](https://github.com/Zion-support/zion-ai-vendor-benchmark-exchange) — https://ziontechgroup.com/zion-ai-vendor-benchmark-exchange/
 - [invoice-match-ai](https://github.com/Zion-support/invoice-match-ai) — https://ziontechgroup.com/invoice-match-ai/
 - [field-safety-brief](https://github.com/Zion-support/field-safety-brief) — https://ziontechgroup.com/field-safety-brief/
+- [fleet-fuel-optimizer](https://github.com/Zion-support/fleet-fuel-optimizer) — https://ziontechgroup.com/fleet-fuel-optimizer/
 - [contract-renewal-radar](https://github.com/Zion-support/contract-renewal-radar) — https://ziontechgroup.com/contract-renewal-radar/
-- [technician-coach-ai](https://github.com/Zion-support/technician-coach-ai) — https://ziontechgroup.com/technician-coach-ai/
 
 ---
 © 2026 Zion Tech Group · https://ziontechgroup.com/
